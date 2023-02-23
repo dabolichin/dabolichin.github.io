@@ -27,7 +27,7 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: resume
-          path: /public/resume.pdf
+          path: resume.pdf
 
         # with:
             # path: . # The root location of your Astro project inside the repository. (optional)
