@@ -7,7 +7,7 @@ on:
     branches: [ main ]
   # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
-  
+
 # Allow this job to clone the repo and create a page deployment
 permissions:
   contents: read
@@ -24,10 +24,6 @@ jobs:
         run: npx playwright install --with-deps
       - name: Install, build, and upload your site
         uses: withastro/action@v0
-      - uses: actions/upload-artifact@v3
-        with:
-          name: resume
-          path: resume.pdf
 
         # with:
             # path: . # The root location of your Astro project inside the repository. (optional)
