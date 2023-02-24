@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "generate-pdf": "npx playwright pdf http://localhost:3000 ./public/resume.pdf",
+    "generate-pdf": "npx playwright pdf http://localhost:3000 ./dist/resume.pdf",
     "generate-pdf:ci": "start-server-and-test preview 3000 generate-pdf",
     "build": "astro check && tsc --noEmit && astro build && yarn generate-pdf:ci",
     "preview": "astro preview",
