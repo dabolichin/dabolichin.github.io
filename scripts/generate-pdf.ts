@@ -10,6 +10,7 @@ import { chromium } from 'playwright';
   await downloadButton.evaluate((node) => (node.innerHTML = ''));
 
   const body = page.locator('body');
+  await page.waitForLoadState('networkidle')
   await body.evaluate((node) => node.classList.remove('bg-indigo-50'));
 
   await page.pdf({
