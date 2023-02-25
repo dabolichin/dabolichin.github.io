@@ -1,5 +1,6 @@
 ---
 title: Dmitrij Abolichin - Resume
+description: Dmitrij Abolichin resume
 layout: ../layouts/Minimalist.astro
 pdfLink: resume.pdf
 ---
