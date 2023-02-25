@@ -6,11 +6,12 @@ import { chromium } from 'playwright';
 
   await page.goto('http://localhost:3000/', { waitUntil: 'networkidle' });
 
+  await page.waitForSelector('a[download]');
   const downloadButton = page.locator('a[download]');
   await downloadButton.evaluate((node) => (node.innerHTML = ''));
 
+  await page.waitForSelector('body');
   const body = page.locator('body');
-  await page.waitForLoadState('networkidle')
   await body.evaluate((node) => node.classList.remove('bg-indigo-50'));
 
   await page.pdf({
