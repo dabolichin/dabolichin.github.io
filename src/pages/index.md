@@ -7,7 +7,8 @@ pdfLink: resume.pdf
 
 # Dmitrij Abolichin
 
-**Vilnius, Lithuania | [d.abolichin at gmail.com](mailto:) | https://abolich.in**
+**Vilnius, Lithuania | [d.abolichin <ins>at</ins> gmail.com](mailto:) |**
+[![Link](/images/link-solid.svg)](https://abolich.in) [![Github](/images/github-alt.svg)](https://github.com/dabolichin/) [![Linkedin](/images/linkedin.svg)](https://www.linkedin.com/in/dmitrij-abolichin/)
 
 As a tech-savvy engineering leader, solving complex problems and improving the human experience through software is my passion.
 I am constantly pushing the boundaries of what is possible by utilizing cutting-edge technologies and practices, with a focus on quality and automation.
