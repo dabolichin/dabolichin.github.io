@@ -4,10 +4,6 @@ import { chromium } from 'playwright';
   const browser = await chromium.launch();
   const page = await browser.newPage();
 
-  await page.setViewportSize({
-    width: 1024,
-    height: 768,
-  });
   await page.goto('http://127.0.0.1:3000/', { waitUntil: 'networkidle' });
 
   const downloadButton = page.locator('a.download');
@@ -22,6 +18,8 @@ import { chromium } from 'playwright';
       top: '50px',
       bottom: '80px',
     },
+    width: '1024px',
+    height: '768px',
     printBackground: true,
   });
 
