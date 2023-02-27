@@ -23,5 +23,8 @@
     "start-server-and-test": "^1.15.4",
     "tailwindcss": "^3.2.7",
     "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "astro-icon": "^0.8.0"
   }
 }
