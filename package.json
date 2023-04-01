@@ -17,7 +17,7 @@
     "@tailwindcss/typography": "^0.5.9",
     "@types/node": "^18.14.1",
     "astro": "^2.0.15",
-    "playwright": "^1.31.1",
+    "playwright": "^1.32.1",
     "prettier": "^2.8.4",
     "prettier-plugin-tailwindcss": "^0.2.3",
     "start-server-and-test": "^1.15.4",
