@@ -16,7 +16,7 @@ div.not-prose a p {
 }
 
 article.minimalist {
-  @apply prose prose-slate m-0 tracking-wide
+  @apply prose prose-slate m-0 tracking-wide antialiased
     max-w-fit bg-white px-12 py-8 pt-20 prose-h1:text-3xl prose-h1:uppercase prose-h2:mb-3 prose-h2:mt-8 prose-h2:text-sm prose-h2:uppercase
     prose-h2:text-slate-500 prose-h3:mb-3
     prose-h3:mt-8 prose-h3:text-xl prose-h4:mb-3 prose-h4:mt-4 
