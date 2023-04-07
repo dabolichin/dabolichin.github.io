@@ -1,7 +1,9 @@
 import { chromium } from 'playwright';
 
 (async () => {
-  const browser = await chromium.launch();
+  const browser = await chromium.launch({
+    args: ['--font-render-hinting=none'],
+  });
   const page = await browser.newPage();
 
   await page.setViewportSize({
