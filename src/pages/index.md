@@ -10,8 +10,8 @@ pdfLink: resume.pdf
 
 As a tech-savvy engineering leader, solving complex problems and improving the human experience through software is my passion.
 I am constantly pushing the boundaries of what is possible by utilizing cutting-edge technologies and practices, with a focus on quality and automation.
-My drive for continuous improvement ensures that I am always learning and applying new knowledge to push the limits of software engineering. 
-I am a firm believer that technology has the power to make this world a better place, and I am dedicated to using my skills to make a meaningful impact. 
+My drive for continuous improvement ensures that I am always learning and applying new knowledge to push the limits of software engineering.
+I am a firm believer that technology has the power to make this world a better place, and I am dedicated to using my skills to make a meaningful impact.
 
 Let's code the future together!
 
@@ -178,7 +178,7 @@ I was responsible for:
 
 ## Projects
 
-### [Knowledge Testing Application for driving schools](<https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)>)
+### [Knowledge Testing Application for driving schools](https://abolich.in/#)
 
 #### Software engineer, contractor | May 2011 - Oct 2011
 
