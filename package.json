@@ -26,6 +26,6 @@
   },
   "dependencies": {
     "astro-icon": "^0.8.0",
-    "typescript": "4.9.5"
+    "typescript": "5.0.4"
   }
 }
