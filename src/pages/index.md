@@ -17,9 +17,15 @@ Let's code the future together!
 
 ## Work Experience
 
+### [Ovoko](https://about.ovoko.com)
+
+#### Head of Engineering | Aug 2023 - now
+
+Ovoko is an online marketplace where car parts sellers, auto dismantlers, and recyclers meet car dealers, mechanics, and enthusiasts.
+
 ### [Kilo Health](https://www.kilo.health/)
 
-#### Director of Engineering | Sep 2022 - Current
+#### Director of Engineering | Sep 2022 - Aug 2023
 
 Kilo Health is one of the leading digital health and wellness companies globally.
 
