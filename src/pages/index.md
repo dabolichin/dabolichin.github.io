@@ -19,7 +19,7 @@ Let's code the future together!
 
 ### [Ovoko](https://about.ovoko.com)
 
-#### Head of Engineering | Aug 2023 - now
+#### Head of Engineering | Aug 2023 - Current
 
 Ovoko is an online marketplace where car parts sellers, auto dismantlers, and recyclers meet car dealers, mechanics, and enthusiasts.
 
