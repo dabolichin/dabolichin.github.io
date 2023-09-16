@@ -7,7 +7,7 @@
     "dev": "astro dev",
     "start": "astro dev",
     "generate-pdf": "tsx ./scripts/generate-pdf.ts",
-    "generate-pdf:ci": "start-server-and-test 3000 generate-pdf",
+    "generate-pdf:ci": "start-server-and-test http://localhost:3000 generate-pdf",
     "build": "astro check && tsc --noEmit && yarn generate-pdf:ci && astro build",
     "astro": "astro"
   },
