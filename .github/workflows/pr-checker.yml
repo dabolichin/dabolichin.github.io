@@ -12,6 +12,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version-file: '.nvmrc'
-
+      
+      - run: yarn playwright install   
       - run: yarn install --frozen-lockfile
       - run: yarn build
