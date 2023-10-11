@@ -22,7 +22,7 @@
     "prettier-plugin-tailwindcss": "^0.5.4",
     "start-server-and-test": "^2.0.1",
     "tailwindcss": "^3.3.3",
-    "tsx": "^3.12.10"
+    "tsx": "^3.13.0"
   },
   "dependencies": {
     "astro-icon": "^0.8.1",
