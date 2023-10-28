@@ -7,16 +7,16 @@
     "dev": "astro dev",
     "start": "astro dev",
     "generate-pdf": "tsx ./scripts/generate-pdf.ts",
-    "generate-pdf:ci": "start-server-and-test http://localhost:3000 generate-pdf",
+    "generate-pdf:ci": "start-server-and-test http://localhost:4321 generate-pdf",
     "build": "astro check && tsc --noEmit && yarn generate-pdf:ci && astro build",
-    "astro": "astro"
+    "astro": "yarn astro"
   },
   "devDependencies": {
-    "@astrojs/tailwind": "^4.0.0",
+    "@astrojs/tailwind": "^5.0.2",
     "@fontsource/poppins": "^5.0.8",
     "@tailwindcss/typography": "^0.5.10",
     "@types/node": "^20.8.9",
-    "astro": "^2.10.7",
+    "astro": "^3.4.0",
     "playwright": "^1.39.0",
     "prettier": "^3.0.3",
     "prettier-plugin-tailwindcss": "^0.5.6",
@@ -25,7 +25,8 @@
     "tsx": "^3.14.0"
   },
   "dependencies": {
+    "@astrojs/check": "^0.2.1",
     "astro-icon": "^0.8.1",
-    "typescript": "5.2.2"
+    "typescript": "^5.2.2"
   }
 }
