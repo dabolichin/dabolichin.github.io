@@ -24,8 +24,8 @@ jobs:
         run: yarn create playwright
       - name: Install Playwright Browsers
         run: |
-          npx playwright install --with-deps \
-            yarn playwright install
+          yarn playwright install \
+            npx playwright install --with-deps
       - name: Install, build, and upload your site
         uses: withastro/action@v0
 
