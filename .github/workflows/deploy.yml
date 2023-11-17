@@ -21,11 +21,9 @@ jobs:
       - name: Checkout your repository using git
         uses: actions/checkout@v3
       - name: Install Playwright
-        run: yarn create playwright
+        run: npm install playwright
       - name: Install Playwright Browsers
-        run: |
-          npm install playwright \
-            npx playwright install --with-deps
+        run: npx playwright install --with-deps
       - name: Install, build, and upload your site
         uses: withastro/action@v0
 
