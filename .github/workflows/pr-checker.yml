@@ -9,6 +9,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Install Playwright
+        run: npm install playwright
+
       - name: Install Playwright Browsers
         run: npx playwright install --with-deps
 
