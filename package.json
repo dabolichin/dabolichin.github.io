@@ -15,7 +15,7 @@
     "@astrojs/tailwind": "^5.1.0",
     "@fontsource/poppins": "^5.0.8",
     "@iconify-json/mdi": "^1.1.64",
-    "@tailwindcss/typography": "^0.5.10",
+    "@tailwindcss/typography": "^0.5.12",
     "@types/node": "^20.11.24",
     "astro": "^4.4.6",
     "playwright": "^1.41.2",
