@@ -16,4 +16,7 @@ export default defineConfig({
     },
   },
   site: 'https://dabolichin.github.io',
+  devToolbar: {
+    enabled: false
+  },
 });
