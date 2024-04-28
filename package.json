@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@astrojs/tailwind": "^5.1.0",
-    "@fontsource/poppins": "^5.0.13",
+    "@fontsource/poppins": "^5.0.14",
     "@iconify-json/mdi": "^1.1.64",
     "@tailwindcss/typography": "^0.5.12",
     "@types/node": "^20.12.7",
