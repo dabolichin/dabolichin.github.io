@@ -9,16 +9,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install Playwright
-        run: npm install playwright
-
       - name: Install Playwright Browsers
-        run: npx playwright install --with-deps
+        run: yarn playwright install --with-deps chromium
 
       - uses: actions/setup-node@v3
         with:
           node-version-file: '.nvmrc'
       
-      - run: yarn playwright install   
-      - run: yarn install --frozen-lockfile
       - run: yarn build
