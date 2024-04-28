@@ -21,9 +21,7 @@ jobs:
       - name: Checkout your repository using git
         uses: actions/checkout@v4
       - name: Install dependencies
-        run: yarn
-      - name: Install Playwright
-        run: yarn create playwright
+        run: yarn cache clean && yarn install
       - name: Install Playwright Browsers
         run: yarn playwright install --with-deps chromium
       - name: Install, build, and upload your site
