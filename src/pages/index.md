@@ -97,7 +97,7 @@ Scala, Akka, Akka cluster, Redis, Elasticsearch, Kafka, PostgreSQL, React.js, No
 
 #### ECM Group Leader | Mar 2014 - Jun 2016
 
-Storebrand is a leading player in the Nordic markets for pensions, life and health insurance, banking and asset management. Storebrand ECM (Enterprise Content Management) group is responsible for providing services for Storebrand's documents production, content management, distribution to customers, documents storage and search.
+Storebrand is a leading player in the Nordic markets for pensions, life and health insurance, banking and asset management.
 
 In Storebrand I have:
 
