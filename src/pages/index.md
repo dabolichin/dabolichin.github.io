@@ -162,7 +162,7 @@ In Exigen Services I have:
 - Leaded the Team of Java developers and testers
 - Facilitated communication between dependent project teams
 - Adopted Agile frameworks and practices (Scrum, Kanban, XP) in day-to-day operation
-- Acted as Product Owner Proxy and specifying User stories (both technical and non-technical)
+- Acted as Product Owner Proxy and specified User stories (both technical and non-technical)
 
 Tech stack we used in Exigen Services:
 Java, Spring, Spring Web Flow, XML/XSD/SOAP/WSDL, JSF/Servlets, RichFaces, JPA & Hibernate, Maven, SVN, Mercurial, Jira.
