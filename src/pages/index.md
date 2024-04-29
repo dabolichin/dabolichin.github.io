@@ -86,7 +86,7 @@ TripCreator is a powerful and time-saving itinerary building software for anyone
 
 As a software developer in TripCreator I have:
 
-- Build core components of a smart tool for creating beautiful custom-made Itineraries with hotels, car rentals, tours and POIs in one place
+- Built core components of a smart tool for creating beautiful custom-made Itineraries with hotels, car rentals, tours and POIs in one place
 - Made product scalable across multiple B2B customers and HA-ready for B2C
 - Implemented the integrations with travel industry giants
 
