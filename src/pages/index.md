@@ -33,15 +33,16 @@ Kilo Health is one of the leading digital health and wellness companies globally
 
 As a Directory of Engineering at Kilo Health I have:
 
-- Leaded the Engineering Guilds (Backend, Frontend, Mobile, QA, Infra, IT & Admin) and core teams around them.
+- Led the Engineering Guilds (Backend, Frontend, Mobile, QA, Infra, IT & Admin) and core teams around them.
 - Optimized the hiring process for Engineering
 - Built and rolled-out the Engineering performance management framework
 - Improved the communication processes across the Engineering teams
+- Rolled out engineering metrics
 - Improved and scaled the Observability and Monitoring across multiple Kilo Health products
 - Developed the concept and organized the [Developer Experience meetup event](https://www.meetup.com/developer-experience-vilnius/)
 - Managed costs for shared Engineering services and tools
 - Introduced the FinOps practices
-- Leaded the process of improving the office infrastructure
+- Led the process of improving the office infrastructure
 
 ### [TransferGo](https://www.transfergo.com/)
 
@@ -51,9 +52,9 @@ TransferGo is a company that provides a range of financial services to its custo
 
 As a Director of Engineering at TransferGo I have:
 
-- Leaded the Engineering teams of the Compliance, FinCrime and Ops domains
+- Led the Engineering teams of the Compliance, FinCrime and Ops domains
 - Initiated the reshape of teams according to Value Streams
-- Leaded the decision process of buy vs. build for Transaction monitoring solution
+- Led the decision process of buy vs. build for Transaction monitoring solution
 
 ### [Vinted](https://www.vinted.com/)
 
@@ -63,7 +64,7 @@ Vinted is an online marketplace and community that allows its users to sell, buy
 
 As a Director of Engineering at Vinted I have:
 
-- Leaded the Engineering of Trust domain
+- Led the Engineering of Trust domain
 - Developed the high-level technical vision
 - Managed the delivery quality, risk, issues and blockers
 - Cultivated Continuous Learning and Improvement culture
@@ -73,7 +74,7 @@ As a Director of Engineering at Vinted I have:
 
 As an engineering team lead at Vinted I have:
 
-- Leaded and grown the Trust & Safety cross-functional engineering team
+- Led and grown the Trust & Safety cross-functional engineering team
 - Scaled the security, community support and content quality services to support 60M+ registered members
 - Contributed to make the second-hand first choice worldwide as a backend developer
 - Grown one team into bigger Trust domain
@@ -101,7 +102,7 @@ Storebrand is a leading player in the Nordic markets for pensions, life and heal
 
 In Storebrand I have:
 
-- Leaded the development of ECM Platform - distributed documents production pipeline involving integrations with core systems and third-party distribution channels
+- Led the development of ECM Platform - distributed documents production pipeline involving integrations with core systems and third-party distribution channels
 - Managed 3 cross-functional teams responsible for Storebrand's documents production, content management, distribution to customers, documents storage and search systems.
 - Optimized recruitment processes and Storebrand Baltic IT build-up
 - Contributed to establishing best management practices in Storebrand Baltic IT
@@ -122,7 +123,7 @@ I EIS Group I have:
 
 - Analyzed the the business requirements for Commercial Lines Insurance solution
 - Designed the architecture for the Commercial Lines solution
-- Leaded implementation of Commercial Lines POC solution
+- Led implementation of Commercial Lines POC solution
 
 Tech stack we used in Exigen Services:
 Java, Spring, Servlets, JSF/Facelets, RichFaces, HTML, Javascript, JQuery, Spring Web Flow, JPA & Hibernate, Maven, SVN, Eclipse, Netbeans, Oracle 10/11, MS SQL, SQL, XML, XSD, Soap WS, RESTful WS, JUnit, Selenium, Mockito, Jira, Bamboo, Hudson/Jenkins, Sonar, Mercurial
@@ -158,8 +159,8 @@ Product is used by insurance companies all over the world (Chartis, AAA, NBIC, H
 In Exigen Services I have:
 
 - Designed and built architecture for core Insurance System components
-- Leaded POC solution implementation
-- Leaded the Team of Java developers and testers
+- Led POC solution implementation
+- Led the Team of Java developers and testers
 - Facilitated communication between dependent project teams
 - Adopted Agile frameworks and practices (Scrum, Kanban, XP) in day-to-day operation
 - Acted as Product Owner Proxy and specified User stories (both technical and non-technical)
