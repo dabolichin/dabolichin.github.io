@@ -8,9 +8,9 @@ pdfLink: resume.pdf
 
 ## About
 
-As a tech-savvy engineering leader, solving complex problems and improving the human experience through software is my passion.
-I am constantly pushing the boundaries of what is possible by utilizing cutting-edge technologies and practices, with a focus on quality and automation.
-My drive for continuous improvement ensures that I am always learning and applying new knowledge to push the limits of software engineering.
+As a seasoned engineering leader, I specialize in driving product innovation, leveraging advanced technologies, and fostering transformative leadership practices.
+With a proven track record in developing and scaling digital solutions, I bring a wealth of experience in product strategy, technology implementation, and team leadership.
+My passion lies in pushing the boundaries of software engineering, continuously learning and applying new technologies to drive meaningful outcomes.
 I am a firm believer that technology has the power to make this world a better place, and I am dedicated to using my skills to make a meaningful impact.
 
 Let's code the future together!
