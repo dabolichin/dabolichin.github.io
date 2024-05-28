@@ -25,7 +25,7 @@ jobs:
       - name: Install Playwright Browsers
         run: yarn playwright install --with-deps chromium
       - name: Install, build, and upload your site
-        uses: withastro/action@v2
+        uses: withastro/action@v1
 
         with:
             # path: . # The root location of your Astro project inside the repository. (optional)
