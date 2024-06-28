@@ -16,7 +16,7 @@
     "@fontsource/poppins": "^5.0.14",
     "@iconify-json/mdi": "^1.1.67",
     "@tailwindcss/typography": "^0.5.13",
-    "@types/node": "^20.12.12",
+    "@types/node": "^20.14.9",
     "astro": "^4.9.2",
     "playwright": "^1.44.1",
     "prettier": "^3.2.5",
