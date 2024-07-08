@@ -5,7 +5,6 @@ description: Dmitrij Abolichin resume
 layout: ../layouts/Minimalist.astro
 pdfLink: resume.pdf
 ---
-
 ## About
 
 As a seasoned engineering leader, I specialize in driving product innovation, leveraging advanced technologies, and fostering transformative leadership practices.
@@ -39,7 +38,7 @@ As a Directory of Engineering at Kilo Health I have:
 - Improved the communication processes across the Engineering teams
 - Rolled out engineering metrics
 - Improved and scaled the Observability and Monitoring across multiple Kilo Health products
-- Developed the concept and organized the [Developer Experience meetup event](https://www.meetup.com/developer-experience-vilnius/)
+- Developed the concept and organized the [Developer Experience meetup event](https://www.linkedin.com/events/devex-introw-danielterhorst-nor7014499741757497344/)
 - Managed costs for shared Engineering services and tools
 - Introduced the FinOps practices
 - Led the process of improving the office infrastructure
@@ -215,9 +214,9 @@ It supports managing students, their exams results, generating tests for learnin
 
 ## Languages
 
-| Lithuanian     | English        | Russian        | Norwegian      | Spanish        |
-| -------------- | -------------- | -------------- | -------------- | -------------- |
-| Fluent/native  | Fluent         | Fluent/native  | Basics         | Basics         |
+| Lithuanian    | English | Russian       | Norwegian | Spanish |
+| ------------- | ------- | ------------- | --------- | ------- |
+| Fluent/native | Fluent  | Fluent/native | Basics    | Basics  |
 
 ## Education
 
@@ -226,3 +225,4 @@ It supports managing students, their exams results, generating tests for learnin
 #### Master, Computer Science | Sep 2004 - Jul 2006
 
 #### Bachelor, Computer Science | Sep 2000 - Jul 2004
+
