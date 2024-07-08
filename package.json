@@ -17,7 +17,7 @@
     "@iconify-json/mdi": "^1.1.67",
     "@tailwindcss/typography": "^0.5.13",
     "@types/node": "^20.14.10",
-    "astro": "^4.11.3",
+    "astro": "^4.11.5",
     "playwright": "^1.45.1",
     "prettier": "^3.3.2",
     "prettier-plugin-tailwindcss": "^0.6.5",
