@@ -21,7 +21,7 @@
     "playwright": "^1.45.1",
     "prettier": "^3.3.2",
     "prettier-plugin-tailwindcss": "^0.6.5",
-    "start-server-and-test": "^2.0.4",
+    "start-server-and-test": "^2.0.5",
     "tailwindcss": "^3.4.4",
     "tsx": "^4.16.2"
   },
