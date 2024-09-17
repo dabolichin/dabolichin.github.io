@@ -12,8 +12,6 @@ With a proven track record in developing and scaling digital solutions, I bring 
 My passion lies in pushing the boundaries of software engineering, continuously learning and applying new technologies to drive meaningful outcomes.
 I am a firm believer that technology has the power to make this world a better place, and I am dedicated to using my skills to make a meaningful impact.
 
-Let's code the future together!
-
 ## Work Experience
 
 ### [Ovoko](https://about.ovoko.com)
