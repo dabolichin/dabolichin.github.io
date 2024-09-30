@@ -116,9 +116,9 @@ Java, Spring, RxJava, Hystrix, HTML, Javascript, RxJs, Polymer, JPA & Hibernate,
 
 EIS Group provides capabilities and solutions to insurers that enable growth and help them meet their goals for operational and cost efficiency.
 
-I EIS Group I have:
+In EIS Group I have:
 
-- Analyzed the the business requirements for Commercial Lines Insurance solution
+- Analyzed the business requirements for Commercial Lines Insurance solution
 - Designed the architecture for the Commercial Lines solution
 - Led implementation of Commercial Lines POC solution
 
@@ -223,4 +223,3 @@ It supports managing students, their exams results, generating tests for learnin
 #### Master, Computer Science | Sep 2004 - Jul 2006
 
 #### Bachelor, Computer Science | Sep 2000 - Jul 2004
-
