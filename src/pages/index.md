@@ -20,7 +20,7 @@ I am a firm believer that technology has the power to make this world a better p
 
 Ovoko is an online marketplace where car parts sellers, auto dismantlers, and recyclers meet car dealers, mechanics, and enthusiasts.
 
-As a Head of Engineering at Ovoko I am leading and scaling the Product Engineering here.
+I am leading and scaling the Product Engineering here.
 
 ### [Kilo Health](https://www.kilo.health/)
 
@@ -28,7 +28,7 @@ As a Head of Engineering at Ovoko I am leading and scaling the Product Engineeri
 
 Kilo Health is one of the leading digital health and wellness companies globally.
 
-As a Directory of Engineering at Kilo Health I have:
+Highlights:
 
 - Led the Engineering Guilds (Backend, Frontend, Mobile, QA, Infra, IT & Admin) and core teams around them.
 - Optimized the hiring process for Engineering
@@ -47,11 +47,11 @@ As a Directory of Engineering at Kilo Health I have:
 
 TransferGo is a company that provides a range of financial services to its customers, with a strong focus on peer-to-peer money transfers.
 
-As a Director of Engineering at TransferGo I have:
+Highlights:
 
-- Led the Engineering teams of the Compliance, FinCrime and Ops domains
-- Initiated the reshape of teams according to Value Streams
-- Led the decision process of buy vs. build for Transaction monitoring solution
+- Led Engineering teams in Compliance, FinCrime, and Ops domains at TransferGo.
+- Spearheaded decision-making process for buy vs. build of Transaction monitoring solution.
+- Initiated team reshaping based on Value Streams to optimize efficiency.
 
 ### [Vinted](https://www.vinted.com/)
 
