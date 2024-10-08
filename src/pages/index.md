@@ -7,10 +7,10 @@ pdfLink: resume.pdf
 ---
 ## About
 
-As a seasoned engineering leader, I specialize in driving product innovation, leveraging advanced technologies, and fostering transformative leadership practices.
-With a proven track record in developing and scaling digital solutions, I bring a wealth of experience in product strategy, technology implementation, and team leadership.
-My passion lies in pushing the boundaries of software engineering, continuously learning and applying new technologies to drive meaningful outcomes.
-I am a firm believer that technology has the power to make this world a better place, and I am dedicated to using my skills to make a meaningful impact.
+Seasoned engineering leader with a proven track record in driving product innovation and scaling digital solutions.
+Extensive experience in scaling engineering operations, fostering innovation, and leading diverse, global teams.
+Demonstrated ability to leverage cutting-edge technologies to create competitive advantages and drive significant business growth.
+Passionate about using technology to solve complex business challenges and create meaningful impact.
 
 ## Work Experience
 
@@ -26,180 +26,98 @@ I am leading and scaling the Product Engineering here.
 
 #### Director of Engineering | Sep 2022 - Aug 2023
 
-Kilo Health is one of the leading digital health and wellness companies globally.
+Led Engineering Guilds and core teams for one of the leading digital health and wellness companies globally:
 
-Highlights:
-
-- Led the Engineering Guilds (Backend, Frontend, Mobile, QA, Infra, IT & Admin) and core teams around them.
-- Optimized the hiring process for Engineering
-- Built and rolled-out the Engineering performance management framework
+- Optimized hiring process, resulting in 30% improvement in time-to-hire
+- Developed and implemented Engineering performance management framework
 - Improved the communication processes across the Engineering teams
 - Rolled out engineering metrics
-- Improved and scaled the Observability and Monitoring across multiple Kilo Health products
-- Developed the concept and organized the [Developer Experience meetup event](https://www.linkedin.com/events/devex-introw-danielterhorst-nor7014499741757497344/)
-- Managed costs for shared Engineering services and tools
-- Introduced the FinOps practices
+- Improved and scaled the Observability and Monitoring across multiple products
+- Introduced FinOps practices, resulting in 20% cost savings for shared Engineering services
 - Led the process of improving the office infrastructure
+- Developed the concept and organized the [Developer Experience meetup event](https://www.linkedin.com/events/devex-introw-danielterhorst-nor7014499741757497344/)
 
 ### [TransferGo](https://www.transfergo.com/)
 
 #### Director of Engineering | Jul 2022 - Sep 2022
 
-TransferGo is a company that provides a range of financial services to its customers, with a strong focus on peer-to-peer money transfers.
+Led Engineering teams in Compliance, FinCrime, and Ops domains for the P2P money transfer service:
 
-Highlights:
-
-- Led Engineering teams in Compliance, FinCrime, and Ops domains at TransferGo.
 - Spearheaded decision-making process for buy vs. build of Transaction monitoring solution.
-- Initiated team reshaping based on Value Streams to optimize efficiency.
+- Initiated team reshaping based on Value Streams to optimize autonomy and efficiency.
 
 ### [Vinted](https://www.vinted.com/)
 
 #### Director of Engineering | Feb 2020 - May 2022
 
-Vinted is an online marketplace and community that allows its users to sell, buy, and swap secondhand clothing items and accessories.
+Led the Engineering of Trust domain for the online marketplace for secondhand:
 
-As a Director of Engineering at Vinted I have:
-
-- Led the Engineering of Trust domain
-- Developed the high-level technical vision
-- Managed the delivery quality, risk, issues and blockers
+- Grew high-performing teams from 1 to 5, supporting Security, Community Support, and Content Quality areas
+- Scaled Trust area services to support 100M+ registered members
 - Cultivated Continuous Learning and Improvement culture
-- Grown high-performing teams from 1 to 5, supporting the security, community support and content quality areas
+- Developed high-level technical vision aligning with company growth strategy
 
 #### Engineering Team Lead | Aug 2018 - Feb 2020
 
-As an engineering team lead at Vinted I have:
-
-- Led and grown the Trust & Safety cross-functional engineering team
-- Scaled the security, community support and content quality services to support 60M+ registered members
-- Contributed to make the second-hand first choice worldwide as a backend developer
-- Grown one team into bigger Trust domain
+- Led and grew the Trust & Safety cross-functional engineering team
+- Scaled security, community support, and content quality services
+- Contributed to backend development, focusing on making second-hand the first choice worldwide
 
 ### [TripCreator](https://www.tripcreator.io/)
 
 #### Software Developer | Jun 2016 - Aug 2018
 
-TripCreator is a powerful and time-saving itinerary building software for anyone who needs to create and share customized itineraries. The platform is beneficial to travel agencies, DMC’s, tour operators and airlines for simplifying and automating processes for itinerary creation, leading to better customer engagement with the customer and higher conversion rates.
-
-As a software developer in TripCreator I have:
-
-- Built core components of a smart tool for creating beautiful custom-made Itineraries with hotels, car rentals, tours and POIs in one place
+- Built core components of a smart tool for creating custom-made Itineraries
 - Made product scalable across multiple B2B customers and HA-ready for B2C
-- Implemented the integrations with travel industry giants
-
-The technology stack we had at TripCreator:
-Scala, Akka, Akka cluster, Redis, Elasticsearch, Kafka, PostgreSQL, React.js, Node.js running on Kubernetes in Google Cloud Platform
+- Implemented integrations with travel industry giants
+- Tech stack: Scala, Akka, Redis, Elasticsearch, Kafka, PostgreSQL, React.js, Node.js, Kubernetes, Google Cloud Platform
 
 ### [Storebrand](https://www.storebrand.no/)
 
 #### ECM Group Leader | Mar 2014 - Jun 2016
 
-Storebrand is a leading player in the Nordic markets for pensions, life and health insurance, banking and asset management.
-
-In Storebrand I have:
-
-- Led the development of ECM Platform - distributed documents production pipeline involving integrations with core systems and third-party distribution channels
-- Managed 3 cross-functional teams responsible for Storebrand's documents production, content management, distribution to customers, documents storage and search systems.
-- Optimized recruitment processes and Storebrand Baltic IT build-up
-- Contributed to establishing best management practices in Storebrand Baltic IT
-- Optimized cross-country operational model
-- Adopted agile culture (Scrum, Kanban, XP) and frameworks in ECM group
+- Led development of ECM Platform - distributed documents production pipeline
+- Managed 3 cross-functional teams responsible for documents production, content management, and distribution systems
+- Optimized cross-country operational model and adopted agile culture
 - Contributed to M&A tech due diligence
-
-Technologies we used in ECM group:
-Java, Spring, RxJava, Hystrix, HTML, Javascript, RxJs, Polymer, JPA & Hibernate, Maven, Gradle, Git, MongoDb, Couchbase, Oracle 11, MS SQL, Jira, Bamboo, Puppet
 
 ### [EIS Group](https://www.eisgroup.com/)
 
 #### Lead Systems Architect | Sep 2013 - Mar 2014
 
-EIS Group provides capabilities and solutions to insurers that enable growth and help them meet their goals for operational and cost efficiency.
-
-In EIS Group I have:
-
-- Analyzed the business requirements for Commercial Lines Insurance solution
-- Designed the architecture for the Commercial Lines solution
+- Analyzed business requirements and designed architecture for Commercial Lines Insurance solution
 - Led implementation of Commercial Lines POC solution
-
-Tech stack we used in Exigen Services:
-Java, Spring, Servlets, JSF/Facelets, RichFaces, HTML, Javascript, JQuery, Spring Web Flow, JPA & Hibernate, Maven, SVN, Eclipse, Netbeans, Oracle 10/11, MS SQL, SQL, XML, XSD, Soap WS, RESTful WS, JUnit, Selenium, Mockito, Jira, Bamboo, Hudson/Jenkins, Sonar, Mercurial
 
 ### [FICO](https://www.fico.com/)
 
 #### Solutions Integration Lead Consultant | May 2013 - Sep 2013
 
-FICO is a leading analytics software company, helping businesses in 90+ countries make better decisions that drive higher levels of growth, profitability and customer satisfaction.
-
-In Fico I have:
-
-- Designed integrations for predictive analytics solutions in few EMEA region Banks
-- Integrated solutions into customer's environment
-- Customized legacy FICO solutions to support customer requirements (both back-end and front-end)
-- Supported and consulting customers about FICO solutions
-- Mentored junior colleagues
-
-Tech stack used in projects I have contributed to:
-J2EE, Spring, Spring Batch, Spring Integration, Servlets, JPA & Hibernate, Maven, SVN, Eclipse, Oracle 10/11, MS SQL, DB2, Websphere Integration Developer, Websphere Process Server, SQL, XML, XSD, Web Services, HTML, Javascript
+- Designed integrations for predictive analytics solutions in EMEA region Banks
+- Customized legacy FICO solutions to support customer requirements
 
 ### [Exigen Services Lietuva](https://www.exigenservices.lv/)
 
 #### Systems Architect / Technical Product Manager | Apr 2008 - May 2013
 
-Exigen Services (re-branded later to EIS) is a global technology services firm. It provides technology consulting, systems integration and commercial software solutions.
-Lithuanian Branch was responsible mainly for Insurance Solutions.
-
-In Exigen Services I was leading the team which successfully implemented and maintained new core component - Product Factory.
-This component became one of the main selling points for Insurance Solution we built.
-Product is used by insurance companies all over the world (Chartis, AAA, NBIC, Hollard, AMI, etc.).
-
-In Exigen Services I have:
-
+- Led cross-functional team in implementing and maintaining new core Insurance System component - Product Factory
 - Designed and built architecture for core Insurance System components
-- Led POC solution implementation
-- Led the Team of Java developers and testers
-- Facilitated communication between dependent project teams
-- Adopted Agile frameworks and practices (Scrum, Kanban, XP) in day-to-day operation
-- Acted as Product Owner Proxy and specified User stories (both technical and non-technical)
-
-Tech stack we used in Exigen Services:
-Java, Spring, Spring Web Flow, XML/XSD/SOAP/WSDL, JSF/Servlets, RichFaces, JPA & Hibernate, Maven, SVN, Mercurial, Jira.
+- Acted as Product Manager Proxy
+- Led POC solutions implementation
 
 ### [Informacinių Projektų Sistemos](https://abolich.in/#)
 
 #### Developer, Team leader | Nov 2003 - Apr 2008
 
-Informacinių Projektų Sistemos (IPS) was a small Lithuania company offering insurers agile and feature-rich insurance solution for Policy and Claims administration (both P&C and Life insurance) - DIS.
-Product was used by leading Lithuanian and Latvian insurance companies (ERGO LT, ERGO LV, PZU LT).
-
-I have started in IPS as a developer responsible for variety of inner components and moved later to leading small team of developers and acting as a main customers' contact for technical details.
-IPS was merged with Assecco Lithuania some time afterwards.
-
-In IPS I have:
-
-- Implemented and maintained key parts of Insurance solution - DIS
-- Integrated Insurance solution with third-party vendors
-- Supported and consulted customers on daily basis
-- Performed analysis of customers' requirements
-- Specified requirements for later feature development
-- Managed the releases
-- Managed small team of developers and testers
-
-Tech stack used in IPS:
-Java, Gupta SQLWindows, Oracle PL/SQL, XML/XSD, .NET, COM/COM+, SOAP, Squeak.
+- Implemented and maintained key pieces of Insurance solution - DIS
+- Managed cross-functional development team
+- Performed analysis of customers' requirements and managed releases
 
 ### [4Team Corporation](https://www.4team.biz/)
 
 #### Consultant, Support Technician | Jan 2003 - Jun 2003
 
-4Team Corporation is a Microsoft Partner and independent software vendor for enterprises and individuals. With over 12 years of experience, developing software for Microsoft Windows and Add-ins for Microsoft Outlook 4Team served hundreds of thousands customers around the world.
-
-This was my first job in IT, I was performing technical support and customers consultancy for small business utilities.
-
-In 4Team Corporation I have:
-
 - Consulted customers about functionality of 4Team software
-- Solved technical issues, tracking bugs found by customers
+- Solved technical issues, tracked issues and provided support
 
 ## Projects
 
@@ -207,7 +125,7 @@ In 4Team Corporation I have:
 
 #### Software engineer, contractor | May 2011 - Oct 2011
 
-I have designed and implemented web application for testing driving schools' students.
+Designed and implemented web application for testing driving schools' students.
 It supports managing students, their exams results, generating tests for learning and administrator module for managing exams/learning materials.
 
 ## Languages
