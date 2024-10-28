@@ -12,7 +12,7 @@
     "astro": "yarn astro"
   },
   "devDependencies": {
-    "@astrojs/tailwind": "^5.1.1",
+    "@astrojs/tailwind": "^5.1.2",
     "@fontsource/poppins": "^5.1.0",
     "@iconify-json/mdi": "^1.2.1",
     "@tailwindcss/typography": "^0.5.15",
