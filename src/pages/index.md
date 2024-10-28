@@ -29,10 +29,9 @@ I am leading and scaling the Product Engineering here.
 Led Engineering Guilds and core teams for one of the leading digital health and wellness companies globally:
 
 - Optimized hiring process, resulting in 30% improvement in time-to-hire
-- Developed and implemented Engineering performance management framework
-- Improved the communication processes across the Engineering teams
-- Rolled out engineering metrics
-- Improved and scaled the Observability and Monitoring across multiple products
+- Designed and implemented engineering performance framework that accelerated engineering career growth and improved retention
+- Implemented data-driven decision making across engineering operations, significantly improving project predictability and team performance visibility
+- Improved and scaled the Observability and Monitoring across multiple products, achieving 2.5x latency improvement and 40% incident reduction
 - Introduced FinOps practices, resulting in 20% cost savings for shared Engineering services
 - Led the process of improving the office infrastructure
 - Developed the concept and organized the [Developer Experience meetup event](https://www.linkedin.com/events/devex-introw-danielterhorst-nor7014499741757497344/)
@@ -44,7 +43,7 @@ Led Engineering Guilds and core teams for one of the leading digital health and 
 Led Engineering teams in Compliance, FinCrime, and Ops domains for the P2P money transfer service:
 
 - Spearheaded decision-making process for buy vs. build of Transaction monitoring solution.
-- Initiated team reshaping based on Value Streams to optimize autonomy and efficiency.
+- Initiated team structure reshaping based on Value Streams to optimize autonomy and efficiency.
 
 ### [Vinted](https://www.vinted.com/)
 
@@ -52,16 +51,18 @@ Led Engineering teams in Compliance, FinCrime, and Ops domains for the P2P money
 
 Led the Engineering of Trust domain for the online marketplace for secondhand:
 
-- Grew high-performing teams from 1 to 5, supporting Security, Community Support, and Content Quality areas
+- Built and scaled high-performing teams from 1 to 5, supporting Security, Community Support, and Content Quality areas
 - Scaled Trust area services to support 100M+ registered members
-- Cultivated Continuous Learning and Improvement culture
-- Developed high-level technical vision aligning with company growth strategy
+- Elevated service reliability by introducing data-driven SLIs/SLOs and comprehensive monitoring, significantly reducing incident response times
+- Led technical initiatives enabling safe scaling of the second-hand marketplace while maintaining consistently low fraud & scam rates and maintaining smooth operations for millions of members
 
 #### Engineering Team Lead | Aug 2018 - Feb 2020
 
 - Led and grew the Trust & Safety cross-functional engineering team
 - Scaled security, community support, and content quality services
+- Introduced SLI & SLOs, and implemented monitoring and alerting for team owned services
 - Contributed to backend development, focusing on making second-hand the first choice worldwide
+- Successfully identified and mitigated multiple security threats targeting marketplace operations, maintaining platform stability and members trust.
 
 ### [TripCreator](https://www.tripcreator.io/)
 
@@ -69,15 +70,15 @@ Led the Engineering of Trust domain for the online marketplace for secondhand:
 
 - Built core components of a smart tool for creating custom-made Itineraries
 - Made product scalable across multiple B2B customers and HA-ready for B2C
-- Implemented integrations with travel industry giants
+- Successfully integrated major travel industry providers (like Booking.com, Viator, kiwi.com), significantly expanding product market reach and B2B adoption
 - Tech stack: Scala, Akka, Redis, Elasticsearch, Kafka, PostgreSQL, React.js, Node.js, Kubernetes, Google Cloud Platform
 
 ### [Storebrand](https://www.storebrand.no/)
 
 #### ECM Group Leader | Mar 2014 - Jun 2016
 
-- Led development of ECM Platform - distributed documents production pipeline
-- Managed 3 cross-functional teams responsible for documents production, content management, and distribution systems
+- Led development of ECM (Enterprise Content Management) Platform
+- Built and led multiple cross-functional engineering teams delivering integrated content solutions: distributed production pipeline, management systems, and multi-channel distribution
 - Optimized cross-country operational model and adopted agile culture
 - Contributed to M&A tech due diligence
 
@@ -85,14 +86,14 @@ Led the Engineering of Trust domain for the online marketplace for secondhand:
 
 #### Lead Systems Architect | Sep 2013 - Mar 2014
 
-- Analyzed business requirements and designed architecture for Commercial Lines Insurance solution
-- Led implementation of Commercial Lines POC solution
+- Architected end-to-end Commercial Lines Insurance platform, translating complex business requirements into scalable technical solution
+- Led development of pioneering Commercial Lines Insurance solution from concept to successful proof-of-concept
 
 ### [FICO](https://www.fico.com/)
 
 #### Solutions Integration Lead Consultant | May 2013 - Sep 2013
 
-- Designed integrations for predictive analytics solutions in EMEA region Banks
+- Delivered custom predictive analytics integrations in EMEA region Banks
 - Customized legacy FICO solutions to support customer requirements
 
 ### [Exigen Services Lietuva](https://www.exigenservices.lv/)
