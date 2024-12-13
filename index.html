@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D.A.</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #fafafa;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .container {
+            max-width: 900px;
+            padding: 2rem;
+            text-align: center;
+        }
+
+        .quote-container {
+            position: relative;
+            margin: 4rem 0;
+        }
+
+        .quote-mark {
+            font-size: 8rem;
+            position: absolute;
+            top: -4rem;
+            left: -2rem;
+            opacity: 0.1;
+            font-family: Georgia, serif;
+            color: #333;
+        }
+
+        .quote {
+            font-size: 2.5rem;
+            line-height: 1.4;
+            color: #2c2c2c;
+            font-weight: 300;
+            margin-bottom: 2rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        .author {
+            font-size: 1.2rem;
+            color: #666;
+            font-weight: 500;
+            letter-spacing: 0.05em;
+        }
+
+        .line {
+            width: 50px;
+            height: 2px;
+            background-color: #666;
+            margin: 2rem auto;
+        }
+
+        @media (max-width: 768px) {
+            .quote {
+                font-size: 1.8rem;
+            }
+
+            .quote-mark {
+                font-size: 6rem;
+                top: -3rem;
+                left: -1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="quote-container">
+            <div class="quote-mark">"</div>
+            <p class="quote">Whatever you are, be a good one.</p>
+            <div class="line"></div>
+            <p class="author">ABRAHAM LINCOLN</p>
+        </div>
+    </div>
+</body>
+</html>
